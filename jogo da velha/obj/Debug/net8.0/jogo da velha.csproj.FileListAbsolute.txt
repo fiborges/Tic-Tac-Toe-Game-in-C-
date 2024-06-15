@@ -1,0 +1,14 @@
+/Users/filipa/Desktop/jogo da velha/bin/Debug/net8.0/jogo da velha
+/Users/filipa/Desktop/jogo da velha/bin/Debug/net8.0/jogo da velha.deps.json
+/Users/filipa/Desktop/jogo da velha/bin/Debug/net8.0/jogo da velha.runtimeconfig.json
+/Users/filipa/Desktop/jogo da velha/bin/Debug/net8.0/jogo da velha.dll
+/Users/filipa/Desktop/jogo da velha/bin/Debug/net8.0/jogo da velha.pdb
+/Users/filipa/Desktop/jogo da velha/obj/Debug/net8.0/jogo da velha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/filipa/Desktop/jogo da velha/obj/Debug/net8.0/jogo da velha.AssemblyInfoInputs.cache
+/Users/filipa/Desktop/jogo da velha/obj/Debug/net8.0/jogo da velha.AssemblyInfo.cs
+/Users/filipa/Desktop/jogo da velha/obj/Debug/net8.0/jogo da velha.csproj.CoreCompileInputs.cache
+/Users/filipa/Desktop/jogo da velha/obj/Debug/net8.0/jogo da velha.dll
+/Users/filipa/Desktop/jogo da velha/obj/Debug/net8.0/refint/jogo da velha.dll
+/Users/filipa/Desktop/jogo da velha/obj/Debug/net8.0/jogo da velha.pdb
+/Users/filipa/Desktop/jogo da velha/obj/Debug/net8.0/jogo da velha.genruntimeconfig.cache
+/Users/filipa/Desktop/jogo da velha/obj/Debug/net8.0/ref/jogo da velha.dll
